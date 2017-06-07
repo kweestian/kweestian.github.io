@@ -1,7 +1,7 @@
 ### Powered by Jekyll
 
-```bash	
-	$gem install jekyll
-	$jekyll build
-	$jekyll serve 
+``` bash	
+	$ gem install jekyll
+	$ jekyll build
+	$ jekyll serve 
 ```
